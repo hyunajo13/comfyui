@@ -36,6 +36,8 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dynavision
     "https://civitai.com/api/download/models/198962?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #realism
+    "https://civitai.com/api/download/models/178182?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
